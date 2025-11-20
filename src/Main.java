@@ -21,7 +21,7 @@ public class Main {
                     System.out.println("Ese número de popochos no es válido");
                 }
         for (int i = 1; i <= n; i++) {
-            System.out.println("El popocho " + i + " está Zzz");
+            System.out.println("Todos los popochitos estan durmiendo sosegados");
         }
     }
 }
