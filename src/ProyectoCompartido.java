@@ -14,6 +14,9 @@ public class ProyectoCompartido {
         int numeroCaracteres = nombre.length();
 
         System.out.println("Tu nombre tiene "+numeroCaracteres+" caracteres");
+        System.out.println("Victor se ha apoderado de este proyecto");
+
+
     }
 
 
